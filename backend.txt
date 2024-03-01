@@ -1,2 +1,6 @@
 nodejs, phyton
+<<<<<<< HEAD
 phyton
+=======
+mongodb
+>>>>>>> c64e69be7ccaecf985c773bcdbb4ed92001fd6a9
